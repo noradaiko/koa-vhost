@@ -1,6 +1,6 @@
 {
   "name": "koa-vhost",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "description": "vhost for koa",
   "main": "index.js",
   "scripts": {
@@ -21,12 +21,11 @@
   },
   "homepage": "https://github.com/Treri/koa-vhost",
   "devDependencies": {
-    "koa": "^0.5.2"
+    "koa": "^2.0.0"
   },
   "dependencies": {
-    "debug": "^1.0.2",
+    "debug": "^2.2.0",
     "jistype": "~0.0.4",
-    "koa-compose": "^2.2.0",
-    "koa-favi": "^0.1.0"
+    "koa-compose": "^ 3.1.0"
   }
 }
